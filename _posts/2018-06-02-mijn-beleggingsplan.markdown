@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Mijn Beleggingsplan"
-date: 2018-06-02 07:44:10 +0200
+title: Mijn Beleggingsplan
+date: '2018-06-02 07:44:10 +0200'
 categories: blog beleggingsplan
+published: true
 ---
 **Mijn Beleggingsplan**
 
 ---
 
-`**Juni 2018:**`
+`Juni 2018:`
 >Doel: vermogen opbouwen met het oog op financiële onafhankelijkheid, waarbij passief inkomen ontzorgt
 
 **Evaluatie:** Pensioenbeleggen even geen aandacht voor gehad, ben er ook nog niet over uit wat netto meer rendement oplevert (fiscaal voordelig vs sneeuwbal). Daarnaast ben ik overgestapt van Binck naar DeGiro, vanwege de (veel) betere tarieven als het gaat om fondsen en aankopen. Fundcoach was goedkoop om iets op te bouwen, maar niet om het te houden. Een service fee van 0.15% betekent al €150 per jaar, puur voor het vasthouden van €10k aan belegd vermogen. Dat vind ik vrij veel.
@@ -18,7 +19,7 @@ Ben ook gestart met het schrijven van een aantal posts, startend bij  #01. On FI
 
 ---
 
-`**December 2017:**`
+`December 2017:`
 >Doel: opbouwen van vermogen, aankoop huis, dividendaandelen zijn interessant voor een passief inkomen zodat er minder gewerkt hoeft te worden, liefst helemaal niet.
 
 Iets te laat gestart met een evaluatie, de €10k komt in de buurt, zal ik in februari 2018 gaan halen, resultaten zijn prima (7% rendement), wel heb ik wat kleine veranderingen doorgevoerd in strategie. De inleg is nu ongeveer €700 per maand en wordt na herverdeling gestopt in 4 ETFs, te kennen:
@@ -34,7 +35,7 @@ Wat meespeelt is dat ik sinds begin dit jaar ook wat heb geïnvesteed in cryptov
 
 ---
 
-`**Oktober 2016**`
+`Oktober 2016`
 >Doel: opbouwen van vermogen i.v.m. lage spaarrente om na 15-20 jaar geld vrij beschikbaar te hebben voor een (2e) huis, verbouwing, wereldreis, iets.
 
 **Plan:** Hierbij verwacht ik een lange termijn rendement van 7% te behalen waarbij ik start met een passieve stijl van (periodiek) beleggen in ETF’s en na wat vermogen (€10k+) opgebouwd te hebben een klein deel van het vermogen in aandelen te stoppen en wat meer actief te gaan beleggen. In de loop van de jaren neem ik de tijd om te kijken op welke manier ik in aandelen wil beleggen. Ik wil uiteindelijk het grootste gedeelte in ETF’s hebben.
@@ -42,4 +43,3 @@ Daarnaast beleg ik voor mijn pensioen in een beleggingsfonds via Brand New Day, 
 Ik evalueer elk jaar de stand van zaken en ik herschrijf dit beleggingsplan na dat jaar om mijn doel scherper te stellen en/of te herzien.
 
 Gestart met het periodiek belegging in ETFs via Binck Fundcoach, met een bedrag van €200-300 per maand om mee te starten, het doel is om hier geleidelijk aan meer in te stoppen.
-

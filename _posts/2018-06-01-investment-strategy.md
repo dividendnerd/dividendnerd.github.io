@@ -8,6 +8,7 @@ tags: investment-strategy
 ---
 
 `Update June 2018:`
+
 >Goal: to build capital to retire early, where my financial situation won't limit me in pursuing what I'd like to, not **having** to go work every day.
 
 **Evaluation:** I've put my pension investments on the low, since I'm not sure wether the returns will be better than if I pay taxes up front and can leverage the compounding interest effect. I recently switch brokers, after announcing new fees for the platform, it was an easy choice. From a service fee of 0.15% to no service fee at all, only transactions costs. And, since I only buy a stock or two each month, these costs are drastically lower. 

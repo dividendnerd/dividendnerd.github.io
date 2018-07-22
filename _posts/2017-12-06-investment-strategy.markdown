@@ -1,3 +1,10 @@
+---
+published: false
+layout: post
+date: '2017-12-06 18:09:04 +0200'
+categories: blog investment update
+tags: investment-strategy
+---
 `December 2017:`
 >Goal: to build capital to retire early or to buy anything I like, where my financial situation won't limit me in pursuing what I'd like to, not **having** to go work every day.
 
@@ -9,7 +16,7 @@ Guess I started late with the evaluation of the year. Been busy, started my post
 3. MSCI Emerging Markets (iShares)
 4. FTSE All-world (VWRL, Vanguard)
 
-**Evaluatie:**
+**Evaluation:**
 Due to the new job I've got little to no room to get my pension investment tax benefits (shame, now it's in the hands of the big funds managers, would rather do it myself). In that light, my own pension funds is doing quite good, a 8% average return since I started. However, the amount is quite low, so it ain't all that much.
 
 I do still support the things I wrote last year, sticking to my strategy, however, now that €10k is closing in, I'm feel inclined to look into dividend and non-dividend stocks. Monthly I'm putting in about €700 now, and I'm still raising this amount each month, which is quite nice. I'm sobering up my expenses, aware of my lifestyle and what's valuable or waste.
@@ -21,4 +28,3 @@ Later.
 **T.**
 
 ---
-

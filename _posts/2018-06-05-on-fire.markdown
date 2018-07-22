@@ -1,0 +1,46 @@
+---
+layout: post
+title: "Dividend Nerd on FI/RE"
+date: 2018-06-02 09:44:10 +0200
+categories: blog fire
+---
+**ON FI/RE**
+
+Dit is het begin van mijn reis naar financiële onafhankelijkheid, ofwel `FI/RE`
+Sinds eind 2016 ben ik, naast 'sparen' ook bezig met het opbouwen van vermogen. Ik heb voordat ik begon een Beleggingsplan geschreven. Daarin staan de doelen die ik heb (of had) met mijn beleggingen. Dat plan kun je ook op dit blog lezen, sterker nog, het is een document wat ik voor mezelf bij houd om op het goede spoor te blijven. Mensen veranderen, doelen veranderen, en zo ook mijn eigen inzichten. 
+>Maar wat niet veranderd is dat ik, en ik denk velen met mij, zo min mogelijk financiële afhankelijkheid wil hebben. Ik zou het fantastisch vinden dat ik alleen maar hoef te werken omdat ik het leuk vind. Dat is waar ik naar toe wil. De route ernaartoe zal vast veranderen, dat is niet erg, maar het einddoel niet. 
+
+### **De Markt**. 
+
+Ik heb al aardig wat boeken gelezen die te maken hebben met o.a. wereldeconomie, investeren en beleggen. Daarin werd al snel duidelijk dat actieve beleggers vrijwel **nooit** beter zijn dan ‘de markt’. 
+Als het gaat om het structureel behalen van een hoger rendement dan de markt (de Standards & Poor 500 index).
+
+De markt versla je dus niet zomaar en ik heb niet de intentie, ofwel de illusie, om dat te doen. Wat wel grappig is, is dat veel mensen refereren aan [Warren Buffet](https://en.wikipedia.org/wiki/Warren_Buffett), een van die beleggers die wél consistent beter presteert dan de markt. Hij geeft herhaaldelijk en al decennia lang aan dat het consistent aankopen van een low-cost index fund (zoals een S&P500 ETF) het meest logische, en zinvolle beleggingsproduct is voor de meeste mensen. Hij doelt hier op de verhouding tussen investering/rendement. Waarbij investering niet alleen een geldinvestering is, maar vooral een (doorlopende) tijdsinvestering. Je hebt er gewoonweg niet veel omkijken naar. Je stort elke maand of kwartaal een X bedrag op je beleggingsrekening, koopt een ETF, of meerdere. Op termijn zul je zien dat je een gemiddeld jaarlijks rendement van 7 á 8% behaalt en daarmee vergelijkbaar presteert als 'de markt'. 
+>Dus zolang je maar consistent blijft aankopen, in goede tijden (als de koers hoog staat) en in slechte tijden (wanneer de koers laag staat), is dat een uitstekende strategie voor de meeste mensen die hun spaargeld laten devalueren op hun spaarrekening die inclusief rente nog steeds een **negatief rendement** oplevert vanwege de inflatie. 
+
+De markt wordt gekenmerkt door correcties, groot en klein, en recessies lang en kortdurend, maar bovenal door een `gemiddelde aanhoudende groei` in zijn geheel. In een toekomstige post zal ik hier nog wat meer over schrijven.
+
+### **Aan de ETFs**
+
+Hierdoor raakte ik enthousiast, zeker toen ik een beter begrip kreeg van hoe de wereldeconomie in elkaar stak en hoe 'de markt' werkte. Dat relatief passieve beleggen sprak mij wel aan en ik ben toen gestart met het periodiek aankopen van ETFs (exchange traded funds, ook wel tracker of indextracker) zoals alle verstandige mensen aanraadden. 
+>Een ETF volgt een bepaalde index, zoals de AEX of een wereldaandelenindex, en stelt je in staat om stukjes van alle bedrijven te kopen van die index met één aankoop, simpel gezegd.
+Na het schrijven van mijn beleggingsplan, het vele lezen en internet afstruinen, maakte ik de keuze voor een aantal fondsen:
+
+* S&P 500 (ISSP)
+* FTSE-100 (VWRL)
+* MSCI Emerging Markets (IEMM)
+* NASDAQ-100 (UST)
+
+Hiermee had ik een globale dekking van de best presterende bedrijven wereldwijd, met een kleine focus op technologie fondsen en opkomende markten voor wat meer groeipotentieel en risicoprofiel. Ik startte met een inleg van ongeveer €250 per maand en voerde dat in een paar maanden op tot €750, waar het vandaag de dag ook ongeveer staat. 
+
+### **Vervroegd met pensioen**
+Daarnaast vind ik het belangrijk om een buffer in cash te houden a €5000 en die laat ik gestaag groeien tot €10000. Ik hoop dat ik vanaf medio 2019 het grootste deel van mijn inkomen kan stoppen in dividendaandelen en ETFs. 
+Waar ik naar toe wil groeien is een toekomst waarin ik passief inkomen genereer, ik financieel onafhankelijk ben en vervroegd met pensioen kan, daar gaat dit blog dan ook over. 
+
+`Het liefst voor mijn 50e.`
+
+Ik wil beschrijven, voor mezelf, maar ook voor mensen die geïnteresseerd zijn, hoe ik dit aanpak, welke keuzes ik maak en waar ik tegen aan loop. Wat ik wel weet is dat ik hierin zit voor een lange periode, waarschijnlijk mijn hele leven :)
+ 
+Tot later.
+
+**T**

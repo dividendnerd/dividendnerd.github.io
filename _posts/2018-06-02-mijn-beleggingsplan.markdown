@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mijn Beleggingsplan
+title: The Dividend Nerd's Investment Strategy
 date: '2018-06-02 07:44:10 +0200'
 categories: blog beleggingsplan
 published: true

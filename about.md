@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I work in the field of healthcare informatics and I really like economics and figuring stuff out :)
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Do you have questions, feedback or any other things, don't hesitate to contact me.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[thijs@brux.nl](mailto:email@domain.com)

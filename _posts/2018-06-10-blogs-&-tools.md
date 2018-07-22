@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Blogs & Tools"
-date: 2018-06-10 09:44:10 +0200
+title: Blogs & Tools
+date: '2018-06-06 09:44:10 +0200'
 categories: blog tips tooling
+published: true
 ---
 `Hier post ik nuttige links naar blogs en tools die ik gebruik en raadpleeg in mijn zoektocht naar FI/RE. Als je tips hebt, laat het me dan weten, altijd welkom!`
 
@@ -20,4 +21,4 @@ categories: blog tips tooling
 ### Tools
 * [FinViz Screener](finviz.com/screener.ashx)
 * [DRiP Investing Resource Center](dripinvesting.org/Tools/Tools.asp)
-* [Dividata](dividata.com/ratings) 
+* [Dividata](dividata.com/ratings)

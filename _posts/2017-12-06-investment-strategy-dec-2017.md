@@ -1,10 +1,10 @@
 ---
-published: false
+published: true
 layout: post
 date: '2017-12-06 18:09:04 +0200'
 categories: blog investment update
 tags: investment-strategy
-title: Investment Strategy Update (Dec 2017)
+title: "Investment Strategy Update (Dec 2017)"
 ---
 `Update December 2017:`
 

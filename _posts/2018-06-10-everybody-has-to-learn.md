@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: '2018-06-10 09:34:50 +0200'
 title: 'Everybody has to learn, right?'
@@ -51,8 +51,4 @@ That
 
 
 
-In hindsight the filter is pretty good though, so that's where I'm lucky I guess. 
-
-
-
-
+In hindsight the filter is pretty good though, so that's where I'm lucky I guess.

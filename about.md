@@ -13,5 +13,4 @@ Do you have questions, feedback or any other things, don't hesitate to contact m
 
 ### [Contact me](mailto:thijs@brux.nl)
 
-
 ![Logo Dividend Nerd]({{site.url}}/images/logo-2.png)

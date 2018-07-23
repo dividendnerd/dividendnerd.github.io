@@ -1,6 +1,6 @@
 ---
 
-layout: psot
+layout: post
 title: "Investment Strategy"
 date: '2016-10-25 10:11:55 +0200'
 categories: blog update

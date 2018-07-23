@@ -62,8 +62,8 @@ Voor mij is het nu tijd om door te gaan naar het volgende onderwerp, want ik heb
 * Wat is een goed aan- of verkoop moment?
 * Etc etc..
 
-Tot later.
-T.
+Later.
+**T.**
 
 
 

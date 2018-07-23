@@ -16,9 +16,9 @@ Based on the parameters I mentioned in the previous post, I'd creater a custom f
 
 |**Parameter**      			  |**Value**           | 
 |:------------------- 				| -------------------:| 
-| Market Cap     			| large | 
+| Market Cap     			| Large | 
 | Forward P/E   			 | < 20      |  
-| Div. Yield 				| positive (> 0%)      |  
+| Div. Yield 				| Positive (> 0%)      |  
 | PEG						| < 3 | 
 | Country					| USA      |  
 | LT debt/equity 			| < 1      |  

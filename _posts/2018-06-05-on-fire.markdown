@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Dividend Nerd on FI/RE"
-date: 2018-06-02 09:44:10 +0200
+title: The Dividend Nerd on FIRE
+date: '2018-06-02 09:44:10 +0200'
 categories: blog fire
+published: true
+tags: blog fire
 ---
 **ON FI/RE**
 

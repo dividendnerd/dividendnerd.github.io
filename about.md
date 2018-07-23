@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-I work in the field of healthcare informatics and am curious about economics. In general, i just like to figure stuff out :)
+I work in the field of healthcare informatics and am curious about economics. In general, I just like to figure stuff out :)
 
 ### More Information
 

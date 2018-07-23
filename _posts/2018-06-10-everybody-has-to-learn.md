@@ -14,8 +14,8 @@ So that's when I dove in.
 
 Based on the parameters I mentioned in the previous post, I'd creater a custom filter in FinViz. One of my favorite tools in screening for good dividend stocks, by the way. This filter looked like this:
 
-| Parameter      			  | Value           | 
-| ------------- 				|-------------:| 
+| **Parameter**      			  | **Value**           | 
+| ------------- 				| ------------:| 
 | Market Cap     			| large | 
 | Forward P/E   			 | < 20      |  
 | Div. Yield 				| positive (> 0%)      |  

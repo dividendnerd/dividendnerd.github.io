@@ -48,21 +48,23 @@ So then the formula is 50/(200-100) = 50/100 = 50%. Still a solid payout ratio, 
 
 ### Other parameters
 
-Ofcourse, there are loads of other parameters that are important for a given context. But, these are fundamental parameters I, and everyone should use, when looking for a potential dividend stock.
+Ofcourse, there are loads of other parameters that are important for a given context. But, these are fundamental parameters I, and everyone besides me, should use when looking for a potential dividend stock. 
 
-Dit zijn natuurlijk niet de hippe tech startups, maar de ‘saaie’ grote logge bedrijven die over de jaren heen stabiel zijn en ook in tijden van recessie de middelen hebben om dividend uit te keren en te verhogen. Voorbeelden hiervan zijn Coca Cola, AT&T, Proctor & Gamble, Unilever. Saaie bedrijven natuurlijk. 
-Aan de slag
-Voor mij is het nu tijd om door te gaan naar het volgende onderwerp, want ik heb, net als degene die dit leest (als er al iemand dit leest), nog zoveel vragen.
-* Hoe begin je?
-* Hoeveel tijd kost dit?
-* Wanneer zie ik resultaat?
-* Hoe weet ik dat ik voldoende risicospreiding heb?
-* Hoe zit het met belasting?
-* Hoe selecteer je de aandelen, welke tooling gebruik je?
-* Wat is een goed aan- of verkoop moment?
+I think by now you can imagine the companies were looking for aren't the cool tech startups with their innovative bio-technological that will revolutionize the world. No, these are stable, boring, blue chip companies that have consistent income streams, able to pay off debts, increase profits and earnings. Moreover, these are companies that are less volatile in general and outperform non-dividend stocks. However, they also recover a little less steep whilst also taking less damage in bear markets. I will write about that a little more in the coming months.
+
+Does this cover anything? No, I bet no one is ever satisfied. But for now, I'll lay down on the writing, because I've a lot of questions left which I want to answer. Here are some of them:
+
+* But how do you start
+* Doesn't this cost huge amounts of time?
+* When can I expect some results?
+* How do I know I've got decent portfolio diversification?
+* What about taxes?
+* What tools should I use?
+* And then, **when** do you buy or sell?
 * Etc etc..
 
 Later.
+
 **T.**
 
 

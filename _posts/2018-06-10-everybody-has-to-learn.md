@@ -8,7 +8,7 @@ tags: blog investment-screener
 ---
 ### beginners luck?
 
-The investment strategy I laid out suggested that in December 2018 I should reach 75/25 ratio of dividend stocks/ETFs. So I though, why not start right away? I jumped in like a maniac searching for the right stocks for my portfolio. In my head it was like I needed that distributed portfolio with loads of dividend stocks right away. 
+The investment strategy I laid out suggested that in December 2018 I should reach 75/25 ratio of dividend stocks/ETFs. So I thought, why not start right away? I jumped in like a maniac searching for the right stocks for my portfolio. In my head it was like I needed that distributed portfolio with loads of dividend stocks right away. 
 
 So that's when I dove in.
 
@@ -45,10 +45,12 @@ Subsequently, with the other companies in my list and interesting talks with tha
 * Starbucks 
 * The Walt Disney Company
 
-All positions about €1k give or take. That seemed like a good start, considering I'm hoping to end the year with €20k, I'd need about €15k of dividend stocks. However, that was almost 50% already what I own now, doesn't that seem a little rash?
+All positions about €1k give or take. That seemed like a good start, considering my goal is to end the year with €20k, I'd need about €15k of dividend stocks by then.
 
-That 
+Now I already own 40% and that is what made me think this could possible be a bit rash. This is not going to happen again, I said to myself, and that is when I hit the books and decided I need rules to guide me. So I've started to set up some guidelines to support me in the dividend selection process. Soon I'll show you what those rules are and how they work for me.
 
+In hindsight the filter is pretty good though, so that's where I'm lucky I guess? Nah, time will tell.
 
+Later.
 
-In hindsight the filter is pretty good though, so that's where I'm lucky I guess.
+**T.**

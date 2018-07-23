@@ -5,7 +5,6 @@ date: '2018-06-10 09:34:50 +0200'
 title: 'Everybody has to learn, right?'
 categories: blog screener
 tags: blog investment-screener
-
 ---
 ### beginners luck?
 
@@ -15,17 +14,17 @@ So that's when I dove in.
 
 Based on the parameters I mentioned in the previous post, I'd creater a custom filter in FinViz. One of my favorite tools in screening for good dividend stocks, by the way. This filter looked like this:
 
-| Parameter        | Value           | 
-| ------------- |:-------------:| 
-| Market Cap     | large | 
-| Forward P/E    | < 20      |  
-| Div. Yield 	| positive (> 0%)      |  
-| PEG			| < 3 | 
-| Country		| USA      |  
-| LT debt/equity | < 1      |  
-| Return on Equity     | > +15%| 
-| Payout Ratio  | < 60%      |  
-|EPS growth	| Positive > 0%      |  
+| Parameter      			  | Value           | 
+| ------------- 				|-------------:| 
+| Market Cap     			| large | 
+| Forward P/E   			 | < 20      |  
+| Div. Yield 				| positive (> 0%)      |  
+| PEG						| < 3 | 
+| Country					| USA      |  
+| LT debt/equity 			| < 1      |  
+| Return on Equity   		  | > +15%| 
+| Payout Ratio  			| < 60%      |  
+|EPS growth					| Positive > 0%      |  
 | MEPS growth next 5 years   | Positive > 0%   | 
 
 As you can see there are loads of other parameters than I've discussed on my blog. This filter was based on my own readings, input from blogs and most important a friend of mine which introduced me to FinViz stock screener. Moreover, I keep a watchlist in Evernote (my go-to note taking and organizing application) with interesting stocks and ETFs to look out for. This list is greatly fueled by the well-known dividend bloggers, top-10 lists and whatsoever. Finally, my friend also passed me some good stocks to look out to.

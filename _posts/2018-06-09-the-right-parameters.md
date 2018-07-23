@@ -32,7 +32,7 @@ So companies earning a stable income, having relative little insecurity, are als
 
 Below an overview of several different dividend yield percentages and growth rates. Look at what the average total yield is after 10, 15 and 20 years. (Sure, I don't take price and growth rate fluctation in consideration, but bear with me for now). 
 
-![Dividend Yield and Growth Rates]({{site.url}}/yield-growth-rates.png)
+![Dividend Yield and Growth Rates]({{site.url}}/images/yield-growth-rates.png)
 
 You see you should not focus on one or the other. It is evident that growth is of importance, but on the other hand a good starting yield also has his benefits. These percentages are pretty realistic by the way.
 

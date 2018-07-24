@@ -3,6 +3,8 @@ layout: post
 title: "Why FIRE?"
 date: 2018-07-23 23:14:40 +0200
 categories: blog fire
+published: true
+
 ---
 `Why does the Dividend Nerd seeks FIRE?`
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why FIRE?
+title: Why "just" FIRE?
 date: '2018-07-23 23:14:40 +0200'
 categories: blog fire
 published: true

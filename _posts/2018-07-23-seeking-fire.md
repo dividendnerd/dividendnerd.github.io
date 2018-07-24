@@ -35,7 +35,7 @@ And so I did. With the headphones used until broken, it felt pretty good to get 
 
 Funny how these things work out. So I try to follow these rules, stick to my plan and I'll never have financial stress. Since I now know what I'll be using the money for, it's for my FIRE.
 
->I now know what I'll be using the money for, it's for my FIRE.
+>I now know what I'll be using the money for, it's just for my FIRE.
 
 Later
 

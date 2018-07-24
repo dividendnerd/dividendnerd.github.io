@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2018-06-02 19:22:00 +0200'
+date: '2018-06-08 19:22:00 +0200'
 title: Investment Strategy Update (June 2018)
 tags: investment-strategy
 ---

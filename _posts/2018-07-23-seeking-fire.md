@@ -9,7 +9,7 @@ published: true
 
 It's funny, in writing all this down, over the last years, I did not touch so deep as to why I seek financial independence and have the ability to retire early (see what I did there?). The idea came when I started earnuing my own money and was not a student anymore, I was an adult, who lived together with his significant other, for years by the way. Now I needed responsibilities, I should save up, to buy a house, being able to withstand unforeseen drawbacks, financially and personally. But I'd never done that, I was a student, never had significant financial problems, and suddenly had to figure it out myself. It took a while before I knew I wanted FIRE in my life.
 
-I was the only one with a steady income, so I provided for most of the rent, groceries and the rest, leaving me with little to save. At least, that's what I told myself. I saved up for holidays and a big expense such as a new laptop, tv and gadgets. I always told myself this was because I was paying for my own university degree, that was an investment in myself, the best I could make (I wasn't wrong though) and that the money would come later and there would be no stress.
+I was the one with a steady income, so I provided for most of the rent, groceries and the rest, leaving me with little to save. At least, that's what I told myself. I saved up for holidays and a big expense such as a new laptop, tv and gadgets. I always told myself this was because I was paying for my own university degree, that was an investment in myself, one of the best investments I could make (I wasn't wrong though) and that the money would come later and there would be no stress.
 
 Yeah right, that was rightout nonsense ofcourse. I could afford to go on multiple holidays, buy fancy gadgets and not save up a decent amount? That had to change, and it did, of course. I just don't get why it changed exactly, my interest in money, economics has been there all along, however I never acted upon it. So then I started to save up for real.
 
@@ -26,12 +26,12 @@ In order to get on FIRE, I should buy only as much as needed, which I divide in:
 * stuff I need
 * stuff I want
 
-With a simple rule: if it is something I want, don't I already have it? If not, write down as if it were a letter my mother explaining why I want it.
+With a simple rule: if it is something I want, don't I already have it? If not, write down as if it were a letter to my mother explaining why I want it.
 
->write down as if it were a letter my mother explaining why I want it
+>write down as if it were a letter to my mother explaining why I want it
 
 These simple rules make my life so easy. For example, my bluetooth headphones broke at the beginning of this year. First, it was only visual damage, non-technical issues. Then I almost could not resist the urge to buy these fancy noise-cancelling headphones. But I told myself, dude, they work perfectly fine, just wear them until they break down. Being honest, I was kinda ashamed using these headphones, with the shell covers almost all peeled off. But then, after a few more months, the left ear cup didn't work, I tried to look for a fix, but these headphones aren't produced anymore (last one produced in 2010) so the parts I needed where hard to get. Aaaaaaand that was the moment I said to myself, dude now you overreacting with the minimalism. Write that letter to your mom, I think you can defend it and buy a new one.
-And so I did. With the headphones used until broken, it felt pretty good to get rid of the old one. It lasted for over 8 years, with regular use (couple days/week) and now I had the perfect reason to buy my fancy headphones I'd now not only wanted, but also needed in my life.
+And so I did. With the headphones used until broken, it felt pretty good to get rid of the old one. It lasted for over 8 years, with regular use (couple days/week) and now I had the perfect reason to buy the fancy [headphones](https://www.sony.com/electronics/headband-headphones/wh-h900n) I'd now not only wanted, but also needed in my life.
 
 Funny how these things work out. So I try to follow these rules, stick to my plan and I'll never have financial stress. Since I now know what I'll be using the money for, it's for my FIRE.
 

@@ -1,13 +1,13 @@
 ---
-
 layout: post
-title: "Investment Strategy"
+title: Investment Strategy
 date: '2016-10-25 10:11:55 +0200'
 categories: blog update
 tags: investment-strategy
+published: true
 ---
 
-**The Initial Plan**
+`The Initial Plan`
 
 `October 2016`
 >Goald: building up capital to live off or have available to use for the acquisition of a (2nd) house, or travel around the world, something like it
@@ -23,4 +23,3 @@ Later
 **T.**
 
 ---
-

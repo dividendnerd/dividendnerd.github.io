@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "Why FIRE?"
-date: 2018-07-23 23:14:40 +0200
+title: Why FIRE?
+date: '2018-07-23 23:14:40 +0200'
 categories: blog fire
 published: true
-
 ---
-`Why does the Dividend Nerd seeks FIRE?`
+`Why does the Dividend Nerd seek FIRE?`
 
-It's funny, in writing all this down, over the last years, I did not touch so deep as to why I seek financial independence and have the ability to retire early (see what I did there?). The idea came when I started making my own money and was not a student anymore, I was an adult, who lived together with his significant other, for years by the way. Now I needed responsibilities, I should save up, to buy a house, being able to withstand unforeseen drawbacks, financially and personally. But I'd never done that, I was a student, never had financial problems, and suddenly had to figure it out for myself.
+It's funny, in writing all this down, over the last years, I did not touch so deep as to why I seek financial independence and have the ability to retire early (see what I did there?). The idea came when I started earnuing my own money and was not a student anymore, I was an adult, who lived together with his significant other, for years by the way. Now I needed responsibilities, I should save up, to buy a house, being able to withstand unforeseen drawbacks, financially and personally. But I'd never done that, I was a student, never had significant financial problems, and suddenly had to figure it out myself. It took a while before I knew I wanted FIRE in my life.
 
 I was the only one with a steady income, so I provided for most of the rent, groceries and the rest, leaving me with little to save. At least, that's what I told myself. I saved up for holidays and a big expense such as a new laptop, tv and gadgets. I always told myself this was because I was paying for my own university degree, that was an investment in myself, the best I could make (I wasn't wrong though) and that the money would come later and there would be no stress.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "The Right Parameters"
+title: The Right Parameters
 date: '2018-06-09 10:30:33 +0200'
 categories: blog screener
 tags: stockscreener
+published: true
 ---
 
-## The importance of the right parameters
+`The importance of the right parameters`
 
 Screening dividend stocks is done using a set of parameters.In a later post I'll lay out how we're using the parameters in the selection process. First, we should find out why we're using these parameters. So let's dive a little deeper to find out. In this post I'll explain some of the parameters I use in dividend stock screening.
 
@@ -16,7 +17,7 @@ Ofcourse, dividend yield itself is an important parameter. Focusing solely on yi
 I aim for an average annual yield of 4.5% to 5% of my total portfolio. My portfolio currently yields about 3.9%, since I just recently started buying dividend stocks. 
 
 A yield of 4.5-5% means $4,50-$5 for each $100 invested. I assume that the rate of inflation will be average on the long-term, so about 3%. Current inflation in The Netherlands however is at the 2% level, but a couple decades ago this has been 3.4%. So our yield should at least beat the historical inflation rate. But what about making money, getting returns, if you're only beating inflation, shouldn't we be aiming for 8%? 
-**No**
+**No** it's not solely about yield, it's about the expected annual growth of the dividend, which makes this strategy important.
 
 >It's not solely about yield, it's about the expected annual growth of the dividend, which makes this strategy important.
 
@@ -36,6 +37,8 @@ Below an overview of several different dividend yield percentages and growth rat
 
 You see you should not focus on one or the other. It is evident that growth is of importance, but on the other hand a good starting yield also has his benefits. These percentages are pretty realistic by the way.
 
+>It is evident that growth is of importance, but on the other hand a good starting yield also has his benefits.
+
 A 5% yield and growth rate of 8% returns you more than a 10% yield with a 3.4% growth rate. A low growth rate is clearly the worst for your returns. So that's why I aim for a growth rate of at least 5%, on average, and an average of 4.7% yield, for your portfolio. These are lower limits, below these numbers is not where I want to go
 
 ### Payout Ratio
@@ -52,7 +55,11 @@ Ofcourse, there are loads of other parameters that are important for a given con
 
 I think by now you can imagine the companies were looking for aren't the cool tech startups with their innovative bio-technological that will revolutionize the world. No, these are stable, boring, blue chip companies that have consistent income streams, able to pay off debts, increase profits and earnings. Moreover, these are companies that are less volatile in general and outperform non-dividend stocks. However, they also recover a little less steep whilst also taking less damage in bear markets. I will write about that a little more in the coming months.
 
-Does this cover anything? No, I bet no one is ever satisfied. But for now, I'll lay down on the writing, because I've a lot of questions left which I want to answer. Here are some of them:
+Does this cover anything? No, I bet no one is ever satisfied.
+
+>Does this cover anything? No, I bet no one is ever satisfied.
+
+But for now, I'll lay down on the writing, because I've a lot of questions left which I want to answer. Here are some of them:
 
 * But how do you start
 * Doesn't this cost huge amounts of time?
@@ -66,14 +73,3 @@ Does this cover anything? No, I bet no one is ever satisfied. But for now, I'll 
 Later.
 
 **T.**
-
-
-
-
-
-
-
-
-
-
- 

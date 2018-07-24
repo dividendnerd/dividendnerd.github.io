@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Enter The Dividend Nerd"
-date:   2018-06-01 10:41:48 +0200
+title: Enter The Dividend Nerd
+date: '2018-06-01 10:41:48 +0200'
 categories: dividendnerd update
+published: true
 ---
-Enter The Dividend Nerd,
+`Enter The Dividend Nerd,`
 
 Where I, Thijs, aspire to be a Dividend Nerd, with the ultimate goal of financial independence. High Yield, Low Payout is our motto, referring to the Dividend Kings. Businesses that have a double-digit long streak of paying ánd increasing dividends to their shareholders. This leads to the effect known as compounding interest, Albert Einstein said this is the 8th world wonder. 
 
@@ -17,4 +18,3 @@ Have fun
 Later.
 
 T.
-

@@ -9,7 +9,7 @@ name: The Dividend Nerd
 description: A blog about becoming a dividend nerd and achieving FIRE.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/tvbrux/tvbrux.github.io/master/images/logo-2.png
+avatar: https://raw.githubusercontent.com/dividendnerd/dividendnerd.github.io/master/images/logo-2.png
 
 #
 # Flags below are optional
@@ -18,10 +18,10 @@ avatar: https://raw.githubusercontent.com/tvbrux/tvbrux.github.io/master/images/
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: thijs@brux.nl
+  email: thedividendnerd@gmail.com
   facebook:
   flickr:
-  github: tvbrux
+  github: dividendnerd
   instagram:
   linkedin:
   pinterest:
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://tvbrux.github.io
+url: https://divdendnerd.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)

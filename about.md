@@ -13,5 +13,4 @@ Do you have questions, feedback or any other things, don't hesitate to contact m
 
 ### [Mail me](mailto:thedividendnerd@gmail.com)
 
-![Logo Dividend Nerd]({{site.url}}/images/logo-2.png)
 ![Dividend Nerd Logo](https://raw.githubusercontent.com/dividendnerd/dividendnerd.github.io/master/images/logo-2.png)

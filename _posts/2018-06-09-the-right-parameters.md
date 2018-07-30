@@ -9,14 +9,14 @@ published: true
 
 `The importance of the right parameters`
 
-Screening dividend stocks is done using a set of parameters.In a later post I'll lay out how we're using the parameters in the selection process. First, we should find out why we're using these parameters. So let's dive a little deeper to find out. In this post I'll explain some of the parameters I use in dividend stock screening.
+Screening dividend stocks is usually done using a set of parameters. In a later post I'll lay out how we're using the parameters in the selection process. First, we should find out why we're using these parameters. So let's dive a little deeper to find out. In this post I'll explain some of the parameters I use in dividend stock screening.
 
 ### Dividend Yield
 
 Ofcourse, dividend yield itself is an important parameter. Focusing solely on yield however, is a recipe for disaster. 
 I aim for an average annual yield of 4.5% to 5% of my total portfolio. My portfolio currently yields about 3.9%, since I just recently started buying dividend stocks. 
 
-A yield of 4.5-5% means $4,50-$5 for each $100 invested. I assume that the rate of inflation will be average on the long-term, so about 3%. Current inflation in The Netherlands however is at the 2% level, but a couple decades ago this has been 3.4%. So our yield should at least beat the historical inflation rate. But what about making money, getting returns, if you're only beating inflation, shouldn't we be aiming for 8%? 
+A yield of 4.5-5% means $4.50-$5 for each $100 invested. I assume that the rate of inflation will be average on the long-term, so about 3%. Current inflation in The Netherlands however is at the 2% level, but a couple decades ago this has been 3.4%. So our yield should at least beat the historical inflation rate. But what about making money, getting returns, if you're only beating inflation, shouldn't we be aiming for 8%? 
 **No** it's not solely about yield, it's about the expected annual growth of the dividend, which makes this strategy important.
 
 >It's not solely about yield, it's about the expected annual growth of the dividend, which makes this strategy important.
@@ -33,7 +33,7 @@ So companies earning a stable income, having relative little insecurity, are als
 
 Below an overview of several different dividend yield percentages and growth rates. Look at what the average total yield is after 10, 15 and 20 years. (Sure, I don't take price and growth rate fluctation in consideration, but bear with me for now). 
 
-![Dividend Yield and Growth Rates]({{site.url}}/images/yield-growth-rates.png)
+![Dividend Yield and Growth Rates](https://raw.githubusercontent.com/dividendnerd/dividendnerd.github.io/master/images/yield-growth-rates.png)
 
 You see you should not focus on one or the other. It is evident that growth is of importance, but on the other hand a good starting yield also has his benefits. These percentages are pretty realistic by the way.
 
@@ -53,11 +53,11 @@ So then the formula is 50/(200-100) = 50/100 = 50%. Still a solid payout ratio, 
 
 Ofcourse, there are loads of other parameters that are important for a given context. But, these are fundamental parameters I, and everyone besides me, should use when looking for a potential dividend stock. 
 
-I think by now you can imagine the companies were looking for aren't the cool tech startups with their innovative bio-technological that will revolutionize the world. No, these are stable, boring, blue chip companies that have consistent income streams, able to pay off debts, increase profits and earnings. Moreover, these are companies that are less volatile in general and outperform non-dividend stocks. However, they also recover a little less steep whilst also taking less damage in bear markets. I will write about that a little more in the coming months.
+I think by now you can imagine the companies were looking for aren't your cool tech startups with their innovative bio-technological that will revolutionize the world. No, these are stable, boring, blue chip companies that have consistent income streams, able to pay off debts, increase profits and earnings. Moreover, these are companies that are less volatile in general and outperform non-dividend stocks. However, they also recover a little less steep whilst also taking less damage in bear markets. I will write about that a little more in the coming months.
 
-Does this cover anything? No, I bet no one is ever satisfied.
+Does this cover everything? No, I bet no one is ever satisfied.
 
->Does this cover anything? No, I bet no one is ever satisfied.
+>Does this cover everything? No, I bet no one is ever satisfied.
 
 But for now, I'll lay down on the writing, because I've a lot of questions left which I want to answer. Here are some of them:
 

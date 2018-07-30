@@ -2,17 +2,17 @@
 
 ### Blogs
 
-* [dividenddiplomats.com/]()
-* [seekingalpha.com]()
-* [suredividend.com]()
-* [mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/]()
-* [mrfreeat33.com]()
-* [dividendmantra.com/]()
+* [Dividend Diplomats](http://www.dividenddiplomats.com)
+* [SeekingAlpha](https://www.seekingalpha.com)
+* [SureDividend](https://www.suredividend.com)
+* [MrMoneyMustache](https://mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement)
+* [MrFree@33](https://www.mrfreeat33.com)
+* [Dividend Mantra](https://www.dividendmantra.com)
 * [Bogleheads](https://www.bogleheads.org/wiki/Main_Page)
-* [multpl.com/sitemap]()
+
 
 ### Tools
-* [FinViz Screener](finviz.com/screener.ashx)
-* [DRiP Investing Resource Center](dripinvesting.org/Tools/Tools.asp)
-* [Dividata](dividata.com/ratings)
+* [FinViz Screener](https://finviz.com/screener.ashx)
+* [DRiP Investing Resource Center](https://dripinvesting.org/Tools/Tools.asp)
+* [Dividata](https://dividata.com/ratings)
 

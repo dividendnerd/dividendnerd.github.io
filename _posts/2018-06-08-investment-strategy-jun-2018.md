@@ -16,7 +16,7 @@ My monthly deposit has risen almost fourfold and I've built up a decent amount, 
 
 Actually, that's why I'm putting some more effort into my writing. I've started writing notes a long time ago, for several projects, to cool my head, collect my thoughts from over the years. So that's why I'll start a blog and publish it. So people can follow me on my journey and to further collect and track my thoughts on the topic. Hoping these notes, posts, or whatever, will make me stick to my plan and do anything stupid.
 
-I've made a list of the books and stuff I read, the tools and other resources I use. You can find those on this blog also: [reading list](https://tvbrux.github.io/reading-list) & [resources](https://tvbrux.github.io/resources).
+I've made a list of the books and stuff I read, the tools and other resources I use. You can find those on this blog also: [reading list](https://dividendnerd.github.io/reading-list) & [resources](https://dividendnerd.github.io/resources).
 
 Later
 

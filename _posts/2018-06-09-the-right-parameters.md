@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Right Parameters
+title: "#06. The Right Parameters"
 date: '2018-06-09 10:30:33 +0200'
 categories: blog screener
 tags: stockscreener

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Investment Strategy
+title: '#01. Investment Strategy' 
 date: '2016-10-25 10:11:55 +0200'
 categories: blog update
 tags: investment-strategy

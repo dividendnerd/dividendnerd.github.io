@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Enter The Dividend Nerd
+title: '#03. Enter The Dividend Nerd' 
 date: '2018-06-01 10:41:48 +0200'
 categories: dividendnerd update
 published: true

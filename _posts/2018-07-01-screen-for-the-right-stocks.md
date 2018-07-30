@@ -1,10 +1,10 @@
 ---
-published: false
+published: true
 layout: post
 date: '2017-12-20 15:03:54 +0200'
 categories: blog screening
 tags: howto
-title: "#08. How to screen for the right Stocks."
+title: "#09. How to screen for the right Stocks."
 ---
 
 `Simple guidelines in finding the right stock`

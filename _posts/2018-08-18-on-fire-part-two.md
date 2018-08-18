@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: '2018-08-18 09:18:22 +0200'
 categories: blog whyfire
@@ -16,7 +16,7 @@ I was curious what she'd wanted to do with it, what the sum of it was because I'
 
 >That is when she said OK you are right, this is probably stupid. 
 
-We've been together from our teenage years, that is over 10 years ago, and we're really open to eachother on any kind of topic. I don't mind asking things about money, so that's what I did. She told me the number of her savings accounts, including the one with the inheritance and I was kind of amazed. Even without the inheritane she'd accumulated a whole lot of cash. Why I'm amazed is because she just started working the end of 2016, working her way through university, wanting to become a doctor. She'd only work a parttime job a few years when she didn't intern (about 2 years working 8-10 hours a week ain't much). Since I wasn't that good with money at all, just about early 2016 it startled me I was doing things wrong. However, we're sidetracking here. So resumé, she'd managed to save a bunch, collected an inheritance, and she'd let it sit idle on her savings account, with about little to no interest rates. 
+We've been together from our teenage years, already well over 10 years ago, and we're really open to eachother on any kind of topic. I don't mind asking things about money, so that's what I did. She told me the number of her savings accounts, including the one with the inheritance and I was kind of amazed. Even without the inheritane she'd accumulated a whole lot of cash. Why I'm amazed is because she just started working the end of 2016, working her way through university, wanting to become a doctor. She'd only work a parttime job a few years when she didn't intern (about 2 years working 8-10 hours a week ain't much). Since I wasn't that good with money at all, just about early 2016 it startled me I was doing things wrong. However, we're sidetracking here. So resumé, she'd managed to save a bunch, collected an inheritance, and she'd let it sit idle on her savings account, with about little to no interest rates. 
 
 That is when I brought up the inflation argument, that her stash is essentially slow cooking due to capital taxes and inflation. Surprisingly that inflation part got to her, she was shocked to see how easily her stash of cash was diminishing over time, leaving her with about the same amount of euros, but that euros could buy a whole lot less in the future. That is when, and I hope you can relate, I made the finishing kick: she was giving up *multiple* new Fred de la Bretoniere shoes every year, or the equivalent of a mid-week or week (depending on the time of year) to our beloved southern French coast we like to reside. That is when she said OK you are right, this is probably stupid. 
 
@@ -36,10 +36,10 @@ Again, I think, or actually hope this is what he’ll say. When she does ask him
 
 Lastyle, the following comes to question: when you, or we, don’t care about money, why are we firing up our fire anyway? If everything is gone tomorrow, we would not care, of course it will suck, big time. But we'll still have a roof over our heads, we can get work virtually everywhere, we’ve invested a lot in ourselves, resulting in several university and postdoctoral degrees. The idea of losing it all sucks, but I still can do so many other things and is gives me more reasong to pursue those things in life because I *want* them to. 
 
-That is what this journey has brought me, it provided insight on my values, especially the power of relationships and the love of life itself.
+That is what this journey has brought me, it provided insight as to what I value most in life, especially the power of relationships and the love of life itself.
 
 Thanks.
 
 Later,
 
-*T*.
+**T**

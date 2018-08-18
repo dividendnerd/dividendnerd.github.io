@@ -1,7 +1,8 @@
-`Here I post what I think are useful resources, like blogs, tools and other content. I love how much useful and quality content there is available on the net. People are awesome. Especially the efforts David Fish has made over the years, is astonishing. If you've got any tips I'm glad to get to know them.`
+`Here I post what I think are useful resources, like blogs, tools and other content. I love how much useful and quality content there is available on the net. People are awesome. Especially the efforts David Fish has made over the years, is astonishing. Moreover, another one worth mentioning is Jim Collins, he has put great effort into his blog and book, which are accessible to everyone and specifically to those not interested in these important things like money, investing, retirement. If you've got any tips I'm glad to get to know them.`
 
 ### Blogs
 
+* [jlcollinsnh ](http://www.jlcollinsnh.com)
 * [Dividend Diplomats](http://www.dividenddiplomats.com)
 * [SeekingAlpha](https://www.seekingalpha.com)
 * [SureDividend](https://www.suredividend.com)

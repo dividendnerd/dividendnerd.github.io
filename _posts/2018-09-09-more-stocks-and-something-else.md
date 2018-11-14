@@ -18,7 +18,7 @@ I previously mentioned I bought shares in 6 companies in a short period from eac
 * Starbucks
 * The Walt Disney Company
 
-In the period after I bought threeadditional stocks, I had some cash available and saw some good opportunities.
+In the period after I bought three additional stocks, I had some cash available and saw some good opportunities.
 
 * EQT Midstream Partners (EQM) @ $54.10
 * AT&T @31.52
